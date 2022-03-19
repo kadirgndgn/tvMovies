@@ -1,0 +1,6 @@
+Bütün filmleri listeleme
+İsme göre film getirme
+Baş harfine göre film getirme
+İçinde geçen harflere göre filmler getirme
+Film ekleme
+Sayfalama
